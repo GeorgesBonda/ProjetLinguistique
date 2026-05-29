@@ -1,0 +1,4 @@
+Comments_tiktok.csv : dataset scrappé sur Apify sans annotation (utilisé dans le notebook annote.ipynb)
+Comments_annotated.csv : dataset annoté (utilisé dans le notebook analyse.ipynb)
+annotate.ipynb : notebook d'annotation (attention il faut une clé OpenAI et le script dure plusieurs heures)
+analyse.ipynb : notebook de l'analyse et du rapport
